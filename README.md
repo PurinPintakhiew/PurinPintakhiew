@@ -1,6 +1,13 @@
 ## Hi there, I am Purin 😸
 
 ### ✨ My Interests
+<ul>
+  <li>🐱 Cat</li>
+  <li>📺 Animation</li>
+  <li>📖 Book</li>
+  <li>💻 Coding</li>
+  <li>🛌🏻 Sleep</li>
+</ul>
 
 <!--
 **PurinPintakhiew/PurinPintakhiew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
