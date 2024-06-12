@@ -1,5 +1,7 @@
 ## Hi there, I am Purin 😸
 
+### ✨ My Interests
+
 <!--
 **PurinPintakhiew/PurinPintakhiew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
