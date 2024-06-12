@@ -1,4 +1,4 @@
-## Hi there, I am Purin Pintakhiew 😸
+## Hi there, I am Purin 😸
 
 <!--
 **PurinPintakhiew/PurinPintakhiew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
