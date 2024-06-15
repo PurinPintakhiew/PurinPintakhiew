@@ -9,6 +9,8 @@
   <li>🛌🏻 Sleep</li>
 </ul>
 
+![Your Name's GitHub stats](https://b2cc-49-228-49-119.ngrok-free.app/api/stats/?username=PurinPintakhiew)
+
 <!--
 **PurinPintakhiew/PurinPintakhiew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
