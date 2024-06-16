@@ -10,4 +10,4 @@
 </ul>
 
 ### 📈 My GitHub stats
-![Purin Pintakhiew is Github stats](http://git-stats-seven.vercel.app/api/stats/?username=PurinPintakhiew)
+![Purin Pintakhiew is Github stats](http://git-stats-profile.vercel.app/api/stats/?username=PurinPintakhiew)
