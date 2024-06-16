@@ -10,4 +10,4 @@
 </ul>
 
 ### 📈 My GitHub stats
-![Your Name's GitHub stats](https://b2cc-49-228-49-119.ngrok-free.app/api/stats/?username=PurinPintakhiew)
+![PurinPintakhiew's GitHub stats ](https://5a65-49-230-117-104.ngrok-free.app/api/stats/?username=PurinPintakhiew)
