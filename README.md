@@ -10,4 +10,3 @@
 </ul>
 
 ### 📈 My GitHub stats
-![PurinPintakhiew's GitHub stats ](https://5a65-49-230-117-104.ngrok-free.app/api/stats/?username=PurinPintakhiew)
