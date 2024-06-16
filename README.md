@@ -9,5 +9,5 @@
   <li>🛌🏻 Sleep</li>
 </ul>
 
-### 📈 My GitHub stats
-![Purin Pintakhiew is Github stats](http://git-stats-profile.vercel.app/api/stats/?username=PurinPintakhiew)
+### 📈 My GitHub Stats
+[![PurinPintakhiew is Github stats](http://git-stats-profile.vercel.app/api/stats/?username=PurinPintakhiew)](https://github.com/PurinPintakhiew)
