@@ -1,4 +1,4 @@
-## Hi there, I am Purin 😸
+## Hi , I am Purin 😸
 
 ### ✨ My Interests
 <ul>
