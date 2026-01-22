@@ -6,5 +6,4 @@
   <li>📺 Animation</li>
   <li>📖 Book</li>
   <li>💻 Coding</li>
-  <li>🛌🏻 Sleep</li>
 </ul>
