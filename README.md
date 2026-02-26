@@ -4,6 +4,6 @@
 <ul>
   <li>🐱 Cat</li>
   <li>📺 Animation</li>
-  <li>📖 Book</li>
+  <li>📖 Novel</li>
   <li>💻 Coding</li>
 </ul>
